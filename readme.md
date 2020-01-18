@@ -10,10 +10,7 @@
 
     # Install dependencies
     $ npm install
-    ```
 
 2. Boot the app and navigate to localhost:3001/graphiql to run a query!
 
-    ```sh
     $ npm start
-    ```
