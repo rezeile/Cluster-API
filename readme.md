@@ -9,8 +9,9 @@
 1. Download & Install Dependencies
 
     # Install dependencies
-    $ npm install
+    $ `git clone https://github.com/rezeile/Cluster-API.git`
+    $ `npm install`
 
 2. Boot the app and navigate to localhost:3001/graphiql to run a query!
 
-    $ npm start
+    $ `npm start`
