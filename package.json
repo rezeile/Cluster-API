@@ -30,11 +30,11 @@
   "dependencies": {
     "apollo-server": "^2.1.0",
     "apollo-server-express": "^2.1.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "connection-string": "^1.0.1",
     "core-js": "^2.5.7",
     "dotenv": "^6.1.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "graphql": "^14.0.2",
     "lodash": "^4.17.11",
     "morgan": "^1.9.1",
